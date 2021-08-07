@@ -1,0 +1,72 @@
+1628060787928	geckodriver	INFO	Listening on 127.0.0.1:58946
+1628060791005	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\barik\\AppData\\Local\\Temp\\rust_mozprofilecQyqDE"
+1628060792168	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\barik\\AppData\\Local\\Temp\\rust_mozprofilecQyqDE\\search.json.mozlz4", (void 0)))
+1628060794777	Marionette	INFO	Listening on port 58968
+1628060794876	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ExpectFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ForgetFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://instapy.org/, line 31: SyntaxError: expected expression, got end of script
+JavaScript error: https://instapy.org/, line 32: SyntaxError: expected expression, got end of script
+JavaScript error: https://instapy.org/, line 33: SyntaxError: expected expression, got end of script
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1628060851615	Marionette	INFO	Stopped listening on port 58968
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628062592239	geckodriver	INFO	Listening on 127.0.0.1:58535
+1628062595327	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\barik\\AppData\\Local\\Temp\\rust_mozprofilezuLn8k"
+1628062595705	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\barik\\AppData\\Local\\Temp\\rust_mozprofilezuLn8k\\search.json.mozlz4", (void 0)))
+1628062597719	Marionette	INFO	Listening on port 58549
+1628062598032	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ExpectFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ForgetFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1628062667256	Marionette	INFO	Stopped listening on port 58549
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628062756314	geckodriver	INFO	Listening on 127.0.0.1:61305
+1628062759376	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\barik\\AppData\\Local\\Temp\\rust_mozprofileklEMSS"
+1628062759770	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\barik\\AppData\\Local\\Temp\\rust_mozprofileklEMSS\\search.json.mozlz4", (void 0)))
+1628062761677	Marionette	INFO	Listening on port 61318
+1628062762068	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ExpectFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: , line 0: OperationError: Could not move temporary file(C:\Users\barik\AppData\Local\Temp\rust_mozprofileklEMSS\activity-stream.discovery_stream.json.tmp) to destination(C:\Users\barik\AppData\Local\Temp\rust_mozprofileklEMSS\activity-stream.discovery_stream.json)
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ForgetFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+1628063166614	Marionette	INFO	Stopped listening on port 61318
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
